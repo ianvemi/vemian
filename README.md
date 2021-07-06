@@ -1,2 +1,2 @@
-# Hi!, Welcome to my github profile.
+# Hi, Welcome to my GitHub profile!
 ![](https://raw.githubusercontent.com/vemian/vemian.github.io/master/images/gh-vemian1.jpg)
