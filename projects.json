@@ -4,6 +4,8 @@
         "name": "free img",
         "desc": "descripción de free img you are formidable to me yeah yeah i follow you for you should know",
         "made": ["HTML","CSS","REACT"],
+        "github": "www.ianvm.me/foody/",
+        "url": "https://github.com/vemian/foody",    
         "img": "https://drive.google.com/uc?export=download&id=1l3YTctYas4ydASrueo_6faa0Yf05rfRV" ,
         "video": "https://drive.google.com/uc?export=download&id=1PK26ugFQoVP7eBraYLz2IB68uQF0CgPU"
       },
@@ -13,6 +15,8 @@
         "name": "foody",
         "desc": "descripción de foody you are formidable to me yeah yeah i follow you for you should know",
         "made": ["HTML", "CSS", "SASS", "JS"],
+        "github": "www.ianvm.me/foody/",
+        "url": "https://github.com/vemian/foody", 
         "img": "https://drive.google.com/uc?export=download&id=1l3YTctYas4ydASrueo_6faa0Yf05rfRV" ,
         "video": "https://drive.google.com/uc?export=download&id=1PK26ugFQoVP7eBraYLz2IB68uQF0CgPU"
       }
