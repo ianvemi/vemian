@@ -7,17 +7,16 @@
         "github": "www.ianvm.me/foody/",
         "url": "https://github.com/vemian/free-img",    
         "img": "https://media.giphy.com/media/fwKmwtyxDYzICr47oU/giphy.gif"
-
       },
   
       {
         "id": 2,
         "name": "foody",
-        "desc": "descripción de foody you are formidable to me yeah yeah i follow you for you should know",
+        "desc": "Web app to order fast food, kinda digital food menu -JS vanilla",
         "made": ["HTML", "CSS", "SASS", "JS"],
         "github": "www.ianvm.me/foody/",
         "url": "https://github.com/vemian/foody", 
-        "img": "https://drive.google.com/uc?export=download&id=1l3YTctYas4ydASrueo_6faa0Yf05rfRV"
+        "img": "https://raw.githubusercontent.com/vemian/foody/master/foody.webp"
 
       }
       
