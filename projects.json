@@ -2,20 +2,30 @@
       {
         "id": 1,
         "name": "free img",
-        "desc": "Image gallery consuming pixabay API with live search",
+        "desc": "Image search gallery consuming pixabay API with live search",
         "made": ["HTML","CSS","REACT"],
-        "github": "www.ianvm.me/foody/",
-        "url": "https://github.com/vemian/free-img",    
+        "github": "https://github.com/vemian/free-img",
+        "url": "https://www.ianvm.me/free-img/",    
         "img": "https://media.giphy.com/media/fwKmwtyxDYzICr47oU/giphy.gif"
       },
   
       {
         "id": 2,
         "name": "foody",
-        "desc": "Web app to order fast food, kinda digital food menu -JS vanilla",
-        "made": ["HTML", "CSS", "SASS", "JS"],
-        "github": "www.ianvm.me/foody/",
-        "url": "https://github.com/vemian/foody", 
+        "desc": "Web app to order fast food, kinda digital food menu with final order receipt.",
+        "made": ["HTML", "SASS", "JS VANILLA"],
+        "github": "https://github.com/vemian/foody",
+        "url": "https://www.ianvm.me/foody/", 
+        "img": "https://raw.githubusercontent.com/vemian/foody/master/foody.webp"
+
+      },
+      {
+        "id": 3,
+        "name": "schedule",
+        "desc": "Web app to save reminders and digital notes",
+        "made": ["HTML", "CSS", "REACT"],
+        "github": "https://github.com/vemian/schedule-app",
+        "url": "https://www.ianvm.me/schedule-app/", 
         "img": "https://raw.githubusercontent.com/vemian/foody/master/foody.webp"
 
       }
