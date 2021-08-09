@@ -1,0 +1,60 @@
+[
+      {
+        "id": 1,
+        "name": "Breaking-Bad-API",
+        "desc": "React app with HTTP requests from Breaking Bad API",
+        "made": ["HTML","CSS","REACT JS"],
+        "github": "https://github.com/vemian/Breaking-Bad-API",
+        "url": "https://www.ianvm.me/Breaking-Bad-API/",    
+        "img": "https://raw.githubusercontent.com/vemian/Breaking-Bad-API/gh-pages/src/breaking-bad.webp"
+      },
+  
+      {
+        "id": 2,
+        "name": "Weather-Neumorphism",
+        "desc": "React app consuming OpenWeather API with Neumorphism design.",
+        "made": ["HTML", "CSS", "REACT JS"],
+        "github": "https://github.com/vemian/Weather-Neumorphism",
+        "url": "http://www.ianvm.me/Weather-Neumorphism/", 
+        "img": "https://raw.githubusercontent.com/vemian/Weather-Neumorphism/gh-pages/weather.webp"
+
+      },
+      {
+        "id": 3,
+        "name": "Shop-Cart",
+        "desc": "Web app to save reminders and digital notes",
+        "made": ["HTML", "CSS", "REACT JS"],
+        "github": "https://github.com/vemian/Shop-Cart",
+        "url": "www.ianvm.me/shop-cart/", 
+        "img": "https://raw.githubusercontent.com/vemian/Shop-Cart/gh-pages/src/ShopCart.webp"
+
+      },
+       {
+        "id": 4,
+        "name": "Portfolio-CV",
+        "desc": "My old portfolio made with js vanilla and pure css animations.",
+        "made": ["HTML", "CSS", "JS"],
+        "github": "https://github.com/vemian/vemian-portfoliov1",
+        "url": "http://www.ianvm.me/vemian-portfoliov1/", 
+        "img": "https://github.com/vemian/vemian.github.io/blob/master/images/meta-image1.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Crossing-worlds",
+        "desc": "Promotional page to my game crossing worlds made in unity",
+        "made": ["HTML", "CSS", "UNITY"],
+        "github": "https://github.com/vemian/crossing-worlds",
+        "url": "https://www.ianvm.me/crossing-worlds/", 
+        "img": "https://github.com/vemian/vemian.github.io/blob/master/images/meta-image1.jpg"
+      },
+      
+      {
+        "id": 6,
+        "name": "Blog-layout",
+        "desc": "Promotional page to my game crossing worlds made in unity",
+        "made": ["HTML", "CSS", "UNITY"],
+        "github": "https://github.com/vemian/layoutblog-css-responsive",
+        "url": "https://www.ianvm.me/layoutblog-css-responsive/", 
+        "img": "https://github.com/vemian/vemian.github.io/blob/master/images/meta-image1.jpg"
+      }
+  ]
