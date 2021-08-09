@@ -3,7 +3,7 @@
         "id": 1,
         "name": "free img",
         "desc": "Image search gallery consuming pixabay API with live search",
-        "made": ["HTML","CSS","REACT"],
+        "made": ["HTML","CSS","REACT JS"],
         "github": "https://github.com/vemian/free-img",
         "url": "https://www.ianvm.me/free-img/",    
         "img": "https://drive.google.com/uc?export=download&id=1R_n8ov2f3WlAXhpVwuLL_0Hg7uyTtlSU"
@@ -23,7 +23,7 @@
         "id": 3,
         "name": "schedule",
         "desc": "Web app to save reminders and digital notes",
-        "made": ["HTML", "CSS", "REACT"],
+        "made": ["HTML", "CSS", "REACT JS"],
         "github": "https://github.com/vemian/schedule-app",
         "url": "https://www.ianvm.me/schedule-app/", 
         "img": "https://drive.google.com/uc?export=download&id=1oS8yIF1o7sRJL7YbzmFwGjezZDILSoRc"
