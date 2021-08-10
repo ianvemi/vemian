@@ -22,10 +22,10 @@
       {
         "id": 3,
         "name": "Shop-Cart",
-        "desc": "Web app to save reminders and digital notes",
+        "desc": "ShoppingCart project to learn the basics of React",
         "made": ["HTML", "CSS", "REACT JS"],
         "github": "https://github.com/vemian/Shop-Cart",
-        "url": "www.ianvm.me/shop-cart/", 
+        "url": "https://www.ianvm.me/Shop-Cart/", 
         "img": "https://drive.google.com/uc?export=download&id=1nPStfrSAzslG9YoKN3MUIL85ifEW4OxD"
 
       },
@@ -51,7 +51,7 @@
       {
         "id": 6,
         "name": "Blog-layout",
-        "desc": "Promotional page to my game crossing worlds made in unity",
+        "desc": "Web layout responsive pure css design & animations.",
         "made": ["HTML", "CSS", "UNITY"],
         "github": "https://github.com/vemian/layoutblog-css-responsive",
         "url": "https://www.ianvm.me/layoutblog-css-responsive/", 
