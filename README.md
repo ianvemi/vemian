@@ -1,4 +1,5 @@
 # Hi, Welcome to my GitHub profile!
+![](https://raw.githubusercontent.com/vemian/vemian/main/banner.png)
 ------------
 ![](https://media.giphy.com/media/KziKCpvrGngHbYjaUF/giphy.gif)
 ------------
