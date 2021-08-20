@@ -6,7 +6,7 @@
         "made": ["HTML","CSS","REACT JS"],
         "github": "https://github.com/vemian/Breaking-Bad-API",
         "url": "https://www.ianvm.me/Breaking-Bad-API/",    
-        "img": "https://drive.google.com/uc?export=download&id=1juJMrE_J9APTwJIxMxBk5615sHVBnOv5"
+        "img": "https://raw.githubusercontent.com/vemian/vemian/main/img/bb.jpg"
       },
   
       {
@@ -16,7 +16,7 @@
         "made": ["HTML", "CSS", "REACT JS"],
         "github": "https://github.com/vemian/Weather-Neumorphism",
         "url": "http://www.ianvm.me/Weather-Neumorphism/", 
-        "img": "https://drive.google.com/uc?export=download&id=1fpku3ggZnsjpCVvF9jcIYaoEiM9DuzIa"
+        "img": "https://raw.githubusercontent.com/vemian/vemian/main/img/cloud.jpg"
 
       },
       {
@@ -26,7 +26,7 @@
         "made": ["HTML", "CSS", "REACT JS"],
         "github": "https://github.com/vemian/Shop-Cart",
         "url": "https://www.ianvm.me/Shop-Cart/", 
-        "img": "https://drive.google.com/uc?export=download&id=1nPStfrSAzslG9YoKN3MUIL85ifEW4OxD"
+        "img": "https://raw.githubusercontent.com/vemian/vemian/main/img/shop.jpg"
 
       },
        {
@@ -36,7 +36,7 @@
         "made": ["HTML", "CSS", "JS"],
         "github": "https://github.com/vemian/vemian-portfoliov1",
         "url": "http://www.ianvm.me/vemian-portfoliov1/", 
-        "img": "https://drive.google.com/uc?export=download&id=1c4gDBKPmXtEreLGZWCeWkafsiq7OGVZa"
+        "img": "https://raw.githubusercontent.com/vemian/vemian/main/img/cv-portfolio.jpg"
       },
       {
         "id": 5,
@@ -45,7 +45,7 @@
         "made": ["HTML", "CSS", "UNITY"],
         "github": "https://github.com/vemian/crossing-worlds",
         "url": "https://www.ianvm.me/crossing-worlds/", 
-        "img": "https://drive.google.com/uc?export=download&id=1Yvi3X_jJvfGh4uoMbVV9HX6dMNZaMqju"
+        "img": "https://raw.githubusercontent.com/vemian/vemian/main/img/cw.jpg"
       },
       
       {
@@ -55,6 +55,6 @@
         "made": ["HTML", "CSS", "UNITY"],
         "github": "https://github.com/vemian/layoutblog-css-responsive",
         "url": "https://www.ianvm.me/layoutblog-css-responsive/", 
-        "img": "https://drive.google.com/uc?export=download&id=1w5E58mv0YCmKily4CPOL5meRUZr_oz3C"
+        "img": "https://raw.githubusercontent.com/vemian/vemian/main/img/bl.jpg"
       }
   ]
