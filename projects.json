@@ -3,7 +3,7 @@
         "id": 1,
         "name": "drinky",
         "desc": "Drinks search web app consuming The Cocktail DB, Features: Filter search, drink mix recipe, useContext & Material-UI, CSS-animations.",
-        "made": ["REACT JS, HTML/CSS"],
+        "made": ["REACT JS", "HTML/CSS"],
         "github": "https://github.com/vemian/Drinky",
         "url": "https://www.ianvm.me/Drinky/",    
         "img": "https://raw.githubusercontent.com/vemian/vemian/main/img/drinky.gif"
@@ -13,7 +13,7 @@
         "id": 2,
         "name": "free img",
         "desc": "Image search gallery consuming pixabay API, Features: live search, full image view, download image, stats view and pagination.",
-        "made": ["REACT JS, HTML/CSS"],
+        "made": ["REACT JS", "HTML/CSS"],
         "github": "https://github.com/vemian/free-img",
         "url": "https://www.ianvm.me/free-img/",    
         "img": "https://raw.githubusercontent.com/vemian/vemian/main/img/freeimg.gif"
@@ -33,7 +33,7 @@
         "id": 4,
         "name": "schedule",
         "desc": "Web app to save reminders and digital notes. Features: glassmorphism design, local storage, form validation.",
-        "made": ["REACT JS, HTML/CSS"],
+        "made": ["REACT JS", "HTML/CSS"],
         "github": "https://github.com/vemian/schedule-app",
         "url": "https://www.ianvm.me/schedule-app/", 
         "img": "https://raw.githubusercontent.com/vemian/vemian/main/img/schedule.gif"
