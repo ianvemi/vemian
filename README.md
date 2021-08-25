@@ -1,4 +1,4 @@
-# Hi, Welcome to my GitHub profile!
+
 ------------
 ![](https://media.giphy.com/media/KziKCpvrGngHbYjaUF/giphy.gif)
 ------------
