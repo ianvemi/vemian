@@ -11,7 +11,8 @@
    
    {
     "id": 2,
-    "name": "Prototype interface of dental office for patient admin ",
+    "name": "dental.org",
+    "desc": "Prototype interface of dental office for patient admin",
     "made": ["Adobe Xd"],
     "url": "https://github.com/vemian/vemian/blob/main/ux%20ui/dental.org.pdf",    
     "img": "https://raw.githubusercontent.com/vemian/vemian/main/ux%20ui/dental1.png",
