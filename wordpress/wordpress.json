@@ -1,0 +1,11 @@
+[
+    {
+     "id": 1,
+     "name": "TECUANI",
+     "desc": "Website for tecuani project including galleries and documents.",
+     "made": ["WordPress", "HTML/CSS"],
+     "url": "https://tecuani-tejidos.com/",    
+     "img": "https://raw.githubusercontent.com/vemian/vemian/main/img/drinky.gif"
+   }
+   
+]
