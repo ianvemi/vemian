@@ -5,7 +5,7 @@
         "desc": "Drinks search web app consuming The Cocktail DB, Features: Filter search, drink mix recipe, useContext & Material-UI, CSS-animations.",
         "made": ["REACT JS", "HTML/CSS"],
         "github": "https://github.com/vemian/Drinky",
-        "url": "https://www.ianvm.me/Drinky/",    
+        "url": "https://www.ianvm.com/Drinky/",    
         "img": "https://raw.githubusercontent.com/vemian/vemian/main/img/drinky.gif"
       },
       
@@ -15,7 +15,7 @@
         "desc": "Image search gallery consuming pixabay API, Features: live search, full image view, download image, stats view and pagination.",
         "made": ["REACT JS", "HTML/CSS"],
         "github": "https://github.com/vemian/free-img",
-        "url": "https://www.ianvm.me/free-img/",    
+        "url": "https://www.ianvm.com/free-img/",    
         "img": "https://raw.githubusercontent.com/vemian/vemian/main/img/freeimg.gif"
       },
   
@@ -25,7 +25,7 @@
         "desc": "Web app to order fast food, kinda digital food menu. Features: final order receipt, multiple option menu, data order, dinamic price.",
         "made": ["JS VANILLA","SASS"],
         "github": "https://github.com/vemian/foody",
-        "url": "https://www.ianvm.me/foody/", 
+        "url": "https://www.ianvm.com/foody/", 
         "img": "https://raw.githubusercontent.com/vemian/vemian/main/img/foody.gif"
 
       },
@@ -35,7 +35,7 @@
         "desc": "Web app to save reminders and digital notes. Features: glassmorphism design, local storage, form validation.",
         "made": ["REACT JS", "HTML/CSS"],
         "github": "https://github.com/vemian/schedule-app",
-        "url": "https://www.ianvm.me/schedule-app/", 
+        "url": "https://www.ianvm.com/schedule-app/", 
         "img": "https://raw.githubusercontent.com/vemian/vemian/main/img/schedule-min.png"
 
       }
