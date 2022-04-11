@@ -5,7 +5,7 @@
         "desc": "React app with HTTP requests from Breaking Bad API",
         "made": ["HTML","CSS","REACT JS"],
         "github": "https://github.com/vemian/Breaking-Bad-API",
-        "url": "https://www.ianvm.me/Breaking-Bad-API/",    
+        "url": "https://www.ianvm.com/Breaking-Bad-API/",    
         "img": "https://raw.githubusercontent.com/vemian/vemian/main/img/bb.jpg"
       },
   
@@ -15,46 +15,26 @@
         "desc": "React app consuming OpenWeather API with Neumorphism design.",
         "made": ["HTML", "CSS", "REACT JS"],
         "github": "https://github.com/vemian/Weather-Neumorphism",
-        "url": "http://www.ianvm.me/Weather-Neumorphism/", 
+        "url": "http://www.ianvm.com/Weather-Neumorphism/", 
         "img": "https://raw.githubusercontent.com/vemian/vemian/main/img/cloud.jpg"
 
       },
-      {
-        "id": 3,
-        "name": "Shop-Cart",
-        "desc": "ShoppingCart project to learn the basics of React",
-        "made": ["HTML", "CSS", "REACT JS"],
-        "github": "https://github.com/vemian/Shop-Cart",
-        "url": "https://www.ianvm.me/Shop-Cart/", 
-        "img": "https://raw.githubusercontent.com/vemian/vemian/main/img/shop.jpg"
-
-      },
        {
-        "id": 4,
+        "id": 3,
         "name": "Portfolio-CV",
         "desc": "My old portfolio made with js vanilla and pure css animations.",
         "made": ["HTML", "CSS", "JS"],
         "github": "https://github.com/vemian/vemian-portfoliov1",
-        "url": "http://www.ianvm.me/vemian-portfoliov1/", 
+        "url": "http://www.ianvm.com/vemian-portfoliov1/", 
         "img": "https://raw.githubusercontent.com/vemian/vemian/main/img/cv-portfolio.jpg"
       },
       {
-        "id": 5,
+        "id": 4,
         "name": "Crossing-worlds",
         "desc": "Promotional page to my game crossing worlds made in unity",
-        "made": ["HTML", "CSS", "UNITY"],
+        "made": ["UNITY"],
         "github": "https://github.com/vemian/crossing-worlds",
-        "url": "https://www.ianvm.me/crossing-worlds/", 
+        "url": "https://www.ianvm.com/crossing-worlds/", 
         "img": "https://raw.githubusercontent.com/vemian/vemian/main/img/cw.jpg"
-      },
-      
-      {
-        "id": 6,
-        "name": "Blog-layout",
-        "desc": "Web layout responsive pure css design & animations.",
-        "made": ["HTML", "CSS", "UNITY"],
-        "github": "https://github.com/vemian/layoutblog-css-responsive",
-        "url": "https://www.ianvm.me/layoutblog-css-responsive/", 
-        "img": "https://raw.githubusercontent.com/vemian/vemian/main/img/bl.jpg"
       }
   ]
