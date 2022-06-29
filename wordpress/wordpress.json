@@ -1,6 +1,14 @@
 [
     {
      "id": 1,
+     "name": "Tifoidea",
+     "desc": "Website for marketing agency, visual proposal based on his corporate identity. - worked with emotionconsultoriacreativa.com",
+     "made": ["WordPress", "HTML/CSS"],
+     "url": "https://tifoidea.mx/",    
+     "img": "https://raw.githubusercontent.com/vemian/vemian/main/wordpress/tifoidea.webp"
+   },
+    {
+     "id": 2,
      "name": "SMD",
      "desc": "Website for SMD ambulances service in cdmx",
      "made": ["WordPress", "HTML/CSS"],
@@ -8,7 +16,7 @@
      "img": "https://raw.githubusercontent.com/vemian/vemian/main/wordpress/smd.webp"
    },
     {
-     "id": 2,
+     "id": 3,
      "name": "TECUANI",
      "desc": "Website for tecuani project including galleries and documents.",
      "made": ["WordPress", "HTML/CSS"],
